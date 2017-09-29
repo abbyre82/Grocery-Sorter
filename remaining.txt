@@ -1,0 +1,4 @@
+rice: 30.0
+milk: 45.0
+chocolate: 34.2
+milk: 10.1
